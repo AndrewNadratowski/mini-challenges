@@ -1,0 +1,41 @@
+/* header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.allbuttons {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+} */
+
+.coin {
+  border-radius: 50%;
+}
+
+.penny {
+  width: 100px;
+  height: 100px;
+  background-color: chocolate;
+}
+
+.nickel {
+  width: 120px;
+  height: 120px;
+  background-color: silver;
+}
+
+.dime {
+  width: 90px;
+  height: 90px;
+  background-color: silver;
+}
+
+.quarter {
+  width: 150px;
+  height: 150px;
+  background-color: silver;
+}
